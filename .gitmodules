@@ -1,0 +1,12 @@
+[submodule "backapp"]
+	path = backapp
+	url = https://github.com/Kaukov/fibonacci_app_backapp.git
+[submodule "frontapp"]
+	path = frontapp
+	url = https://github.com/Kaukov/fibonacci_app_frontapp.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/Kaukov/fibonacci_app_lib.git
+[submodule "consoleapp"]
+	path = consoleapp
+	url = https://github.com/Kaukov/fibonacci_app_consoleapp.git
